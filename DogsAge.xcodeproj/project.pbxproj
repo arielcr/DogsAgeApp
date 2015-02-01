@@ -13,6 +13,7 @@
 		F9A05C5B1A7EDCD100156360 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9A05C5A1A7EDCD100156360 /* Images.xcassets */; };
 		F9A05C5E1A7EDCD100156360 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F9A05C5C1A7EDCD100156360 /* LaunchScreen.xib */; };
 		F9A05C6A1A7EDCD100156360 /* DogsAgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A05C691A7EDCD100156360 /* DogsAgeTests.swift */; };
+		F9A05C741A7EDDB100156360 /* Poor little dog-640x1136 wallpapers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9A05C731A7EDDB100156360 /* Poor little dog-640x1136 wallpapers.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F9A05C631A7EDCD100156360 /* DogsAgeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DogsAgeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9A05C681A7EDCD100156360 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9A05C691A7EDCD100156360 /* DogsAgeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogsAgeTests.swift; sourceTree = "<group>"; };
+		F9A05C731A7EDDB100156360 /* Poor little dog-640x1136 wallpapers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Poor little dog-640x1136 wallpapers.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		F9A05C511A7EDCD000156360 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F9A05C731A7EDDB100156360 /* Poor little dog-640x1136 wallpapers.jpg */,
 				F9A05C521A7EDCD000156360 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +198,7 @@
 				F9A05C591A7EDCD100156360 /* Main.storyboard in Resources */,
 				F9A05C5E1A7EDCD100156360 /* LaunchScreen.xib in Resources */,
 				F9A05C5B1A7EDCD100156360 /* Images.xcassets in Resources */,
+				F9A05C741A7EDDB100156360 /* Poor little dog-640x1136 wallpapers.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
